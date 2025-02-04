@@ -1,0 +1,47 @@
+
+
+
+.row-featurette {
+    display:flex;
+    justify-content:space-between
+}
+
+
+
+.tenor-gif-embed {
+    border-radius: 50%;
+}
+
+
+body {
+    background-color: #F2E8C6; /* Açık mavi bir ton */
+    color: #333333; /* Metin rengi (isteğe bağlı, kontrast için) */
+}
+
+/* Arka plan renginin geçerli olmadığı bölümleri düzeltmek için ek düzenlemeler */
+header, footer {
+    align-items: stretch;
+    background-color: #ffffff; /* Üstbilgi ve altbilgi için beyaz */
+    color: #000000; /* Metin rengini kontrast için siyah yapın */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
